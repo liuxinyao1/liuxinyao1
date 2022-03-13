@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|![Xinyao github stats](https://github-readme-stats.vercel.app/api?username=liuxinyao1&theme=default&show_icons=true&count_private=true)|
-<a href="https://github.com/liuxinyao1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuxinyao1&layout=compact&theme=buefy&hide_border=true" /></a>|
+|![Xinyao github stats](https://github-readme-stats.vercel.app/api?username=liuxinyao1&theme=default&show_icons=true&count_private=true)| <a href="https://github.com/liuxinyao1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuxinyao1&layout=compact&theme=buefy&hide_border=true" /></a>|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 ![Xinyao Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liuxinyao1&theme=solarized_dark)
