@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**liuxinyao1/liuxinyao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mango2630/mango2630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| <a href="https://github.com/liuxinyao1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liuxinyao1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yh's github stats" /></a> | <a href="https://github.com/liuxinyao1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuxinyao1&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/liuxinyao1/count.svg" />
+</p>
